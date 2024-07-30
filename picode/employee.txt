@@ -1,0 +1,4 @@
+Name    Surname     Department  Salary  
+Memet   Koslu       Admin       $1400 
+Fatih   Oguz        Sales       $4772
+Kursat  Kelek       Sales       $3900
